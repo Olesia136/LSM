@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace LSM
 {
-    public class Class1
+    public class VectorsLengthException : Exception
     {
+        public VectorsLengthException(string message) : base(message)
+        {
+
+        }
     }
 }

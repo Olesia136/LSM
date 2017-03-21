@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSM", "LSM\LSM.csproj", "{E818518D-161E-4EB8-BA37-58432447F985}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSMExample", "LSMExample\LSMExample.csproj", "{80DC4C4B-3C8A-49C5-B742-50F8D54F05B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSMTests", "LSMTests\LSMTests.csproj", "{969568ED-BD7F-43D9-94FA-9BF6D664921B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E818518D-161E-4EB8-BA37-58432447F985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E818518D-161E-4EB8-BA37-58432447F985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E818518D-161E-4EB8-BA37-58432447F985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DC4C4B-3C8A-49C5-B742-50F8D54F05B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DC4C4B-3C8A-49C5-B742-50F8D54F05B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DC4C4B-3C8A-49C5-B742-50F8D54F05B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DC4C4B-3C8A-49C5-B742-50F8D54F05B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969568ED-BD7F-43D9-94FA-9BF6D664921B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969568ED-BD7F-43D9-94FA-9BF6D664921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969568ED-BD7F-43D9-94FA-9BF6D664921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969568ED-BD7F-43D9-94FA-9BF6D664921B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
